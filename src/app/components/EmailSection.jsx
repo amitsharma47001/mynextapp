@@ -1,8 +1,8 @@
 "use client";
-import React, { useState } from "react";
+
 
 const EmailSection = () => {
-  const [emailSubmitted, setEmailSubmitted] = useState(false);
+  
 
   return (
     <section
